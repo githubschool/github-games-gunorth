@@ -1,0 +1,4 @@
+README.md @gunorth
+/docs/* @docs-team
+*.js @js-expert
+* @gunorth
